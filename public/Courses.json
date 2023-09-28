@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1001,
+    "image": "https://i.ibb.co/DK6CsJk/introprogramming.png",
+    "title": "Introduction to Programming",
+    "description": "Learn the basics of programming and start your journey into the world of coding.",
+    "price": 15000,
+    "credit": 3
+  },
+  {
+    "id": 1002,
+    "image": "https://i.ibb.co/q7SQWSy/Web-Development-Fundamentals-1024x615.png",
+    "title": "Web Development Fundamentals",
+    "description": "Master the essentials of web development, including HTML, CSS, and JavaScript.",
+    "price": 20000,
+    "credit": 4
+  },
+  {
+    "id": 1003,
+    "image": "https://i.ibb.co/hWXzn0T/maxresdefault.jpg",
+    "title": "Data Science for Beginners",
+    "description": "Discover the power of data analysis and visualization with Python.",
+    "price": 25000,
+    "credit": 5
+  },
+  {
+    "id": 1004,
+    "image": "https://i.ibb.co/s6mDY4D/devops.jpg",
+    "title": "DevOps for Continuous Integration",
+    "description": "Streamline software development and deployment with DevOps practices.",
+    "price": 32000,
+    "credit": 3
+  },
+  {
+    "id": 1005,
+    "image": "https://i.ibb.co/WFbCr4c/Digital-Marketing-Mastery.jpg",
+    "title": "Digital Marketing Mastery",
+    "description": "Become an expert in digital marketing strategies and boost your online presence.",
+    "price": 30000,
+    "credit": 4
+  },
+  {
+    "id": 1006,
+    "image": "https://i.ibb.co/J798T2p/Artificial-Intelligence.jpg",
+    "title": "Introduction to Artificial Intelligence",
+    "description": "Dive into the world of AI and explore its applications in various industries.",
+    "price": 28000,
+    "credit": 4
+  },
+  {
+    "id": 1007,
+    "image": "https://i.ibb.co/bRHytys/python-programming.webp",
+    "title": "Python Programming Mastery",
+    "description": "Become a Python expert and excel in software development and data science.",
+    "price": 28000,
+    "credit": 2
+  },
+  {
+    "id": 1008,
+    "image": "https://i.ibb.co/PwkXrgM/Java-Programming.jpg",
+    "title": "Java Programming for Beginners",
+    "description": "Learn the fundamentals of Java programming and start coding.",
+    "price": 26000,
+    "credit": 5
+  },
+  {
+    "id": 1009,
+    "image": "https://i.ibb.co/jVFNZ09/flutter.jpg",
+    "title": "Mobile App Development with Flutter",
+    "description": "Create cross-platform mobile apps with Google's Flutter framework.",
+    "price": 30000,
+    "credit": 3
+  }
+]

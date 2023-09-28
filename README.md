@@ -21,3 +21,6 @@ In the **Course Registration** project, managing the application's state is cruc
 - **Component State:** Each course card and the cart itself are typically React components that can have their own local state. For example, a course card component may have a state variable to track whether it has been selected.
 
 - **Event Handling:** When a user clicks the "Select" button on a course card, an event handler is triggered. This handler dispatches an action to update the state based on the user's interaction.
+
+## 🔗 Live site 
+Click this [coursecraft](https://coursecraft.netlify.app/)
